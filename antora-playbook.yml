@@ -7,7 +7,7 @@ site:
   start_page: main-doc::index.adoc
 content:
   sources:
-    - url: ../
+    - url: ./
       branches: HEAD
       start_path: documentation
     - url: https://github.com/ops4j/org.ops4j.pax.exam2.git
